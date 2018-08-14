@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TabLayoutViewPager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_game_fragment">This is Game Fragment</string>
+    <string name="this_is_movie_fragment">This is movie fragment</string>
+</resources>
